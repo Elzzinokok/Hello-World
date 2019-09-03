@@ -1,4 +1,2 @@
 # Hello-World
-First Repository
-
-  Practice using github
+小板練習
